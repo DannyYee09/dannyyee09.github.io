@@ -1,1 +1,1 @@
-<a href="dannyyee09.github.io">dannyyee09.github.io</a>
+<a href="dannyyee09.github.io"  target="new">dannyyee09.github.io</a>
